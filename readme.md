@@ -1,2 +1,2 @@
 Short Lnk
-This is short lnk Application developed with Meteor
+This is short lnk Application developed with Meteor By Dakoto Ayasemale
